@@ -1,10 +1,14 @@
+import url from 'url';
+
 import express from "express";
+
+const __filename = url.fileURLToPath(import.meta.url);
+const __dirname = url.fileURLToPath(new URL('.', import.meta.url));
 
 const app = express();
 
 app.get("/", (req, res) => {
-    console.log("Give something");
-    res.send("TESTING..");
+    res.sendFile(__dirname + "/index.html");
 });
 
 app.listen(3000, () => {
