@@ -1,0 +1,23 @@
+{
+  "name": "simon-game",
+  "version": "1.0.0",
+  "description": "This is a web version of the popular game \"Simon\". It is a memorization game where you have to remember the press the colored buttons in the order in which they flashed.",
+  "main": "app.js",
+  "scripts": {
+    "test": "echo \"Error: no test specified\" && exit 1"
+  },
+  "repository": {
+    "type": "git",
+    "url": "git+ssh://git@github.com/Abhishek-Jethuri/Simon-Game.git"
+  },
+  "keywords": [
+    "simon",
+    "game"
+  ],
+  "author": "Abhishek Jethuri",
+  "license": "ISC",
+  "bugs": {
+    "url": "https://github.com/Abhishek-Jethuri/Simon-Game/issues"
+  },
+  "homepage": "https://github.com/Abhishek-Jethuri/Simon-Game#readme"
+}
