@@ -1,7 +1,7 @@
 {
   "name": "simon-game",
   "version": "1.0.0",
-  "description": "This is a web version of the popular game \"Simon\". It is a memorization game where you have to remember the press the colored buttons in the order in which they flashed.",
+  "description": "This is a web version of the popular game \"Simon\". It is a memorization game where you have to remember and the press the colored buttons in the order in which they flashed.",
   "main": "app.js",
   "scripts": {
     "test": "echo \"Error: no test specified\" && exit 1"
