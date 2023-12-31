@@ -19,5 +19,8 @@
   "bugs": {
     "url": "https://github.com/Abhishek-Jethuri/Simon-Game/issues"
   },
-  "homepage": "https://github.com/Abhishek-Jethuri/Simon-Game#readme"
+  "homepage": "https://github.com/Abhishek-Jethuri/Simon-Game#readme",
+  "dependencies": {
+    "express": "^4.18.2"
+  }
 }
